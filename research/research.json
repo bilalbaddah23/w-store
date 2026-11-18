@@ -1,0 +1,350 @@
+{
+  "brand": "W Store",
+  "handle": "wstore.lb",
+  "instagram": "https://www.instagram.com/wstore.lb/",
+  "contactMode": "whatsapp",
+  "phone": "96181242488",
+  "displayPhone": "+961 81 242 488",
+  "publicPhoneObserved": "96181242488",
+  "hours": "Monday–Saturday,10am–7pm; confirm before visiting",
+  "followersObserved": null,
+  "followersDisplay": "44.2K",
+  "latestVisiblePost": "2026-11-18",
+  "researchDate": "2026-11-18",
+  "profileBio": "⏰Opening hours from Monday to Saturday! -10:00 Am to7:00 Pm!\n☎️01 877 120\n📱Whatsapp Zalka81-24 24 88 /81-24 24 85\nFor order press⬇️",
+  "bioLinks": [
+    "https://wsend.co/96181242488"
+  ],
+  "branches": [
+    {
+      "name": "Zalka",
+      "address": "Zalka, Lebanon; confirm exact visiting location with the boutique",
+      "phone": "96181242488",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=W%20Store%20Zalka%20Lebanon"
+    },
+    {
+      "name": "Jbeil",
+      "address": "Jbeil, Lebanon; confirm exact visiting location with the boutique",
+      "phone": "96181242485",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=W%20Store%20Jbeil%20Lebanon"
+    }
+  ],
+  "about": "W Store brings together everyday separates, expressive outer layers and occasion looks. Explore its photographed fashion edit, then contact the Zalka team on WhatsApp to confirm the right garment, fit and visiting details. The public account also lists a Jbeil contact.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\01.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\03.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\03.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\04.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\05.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\06.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\07.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\08.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\09.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\10.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\11.jpg",
+    "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\12.jpg"
+  ],
+  "products": [
+    {
+      "id": "cream-cape-style-layer",
+      "name": "Cream Cape Style Layer",
+      "category": "Outer layers",
+      "description": "A short cream cape-style outer layer with dark buttons, styled over brown separates outside the W Store entrance. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/Df4JsSnuAmi/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "black-collared-zip-layer",
+      "name": "Black Collared Zip Layer",
+      "category": "Outer layers",
+      "description": "A black collared zip-front outer layer with a glossy finish, styled with slim dark trousers. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/Df1m9i_OF_c/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "brown-button-coordinated-look",
+      "name": "Brown Button Coordinated Look",
+      "category": "Everyday sets",
+      "description": "A brown collared jacket with light buttons, styled with matching-looking wide-leg trousers and a white top. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfzBR5Juprc/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "burgundy-sparkle-gown",
+      "name": "Burgundy Sparkle Gown",
+      "category": "Occasion looks",
+      "description": "A fitted sleeveless burgundy evening dress with a sparkling surface and a side opening, shown in the boutique. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfrS42kuBbQ/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "taupe-button-trim-top",
+      "name": "Taupe Button Trim Top",
+      "category": "Tops",
+      "description": "A taupe top with decorative light button details, styled with dark trousers. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfoyPHkuukq/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "black-relaxed-blouse",
+      "name": "Black Relaxed Blouse",
+      "category": "Tops",
+      "description": "A relaxed dark long-sleeved blouse styled with wide-leg blue jeans outside the boutique. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfmOgfcOevs/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "burgundy-zip-top",
+      "name": "Burgundy Zip Top",
+      "category": "Tops",
+      "description": "A burgundy collared zip-front top with a glossy finish, styled with blue jeans. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/Dfjks7hurFk/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "ivory-lettered-hoodie",
+      "name": "Ivory Lettered Hoodie",
+      "category": "Tops",
+      "description": "An ivory hooded top with large dark lettering across the chest, styled with black trousers. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfhDbrPuLji/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "deep-green-halter-look",
+      "name": "Deep Green Halter Look",
+      "category": "Occasion looks",
+      "description": "A deep green halter-style wide-leg one-piece look, shown with a tied waist and a deep V-shaped neckline. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/Dfb4gKXuG0_/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    },
+    {
+      "id": "burgundy-draped-evening-dress",
+      "name": "Burgundy Draped Evening Dress",
+      "category": "Occasion looks",
+      "description": "A long burgundy thin-strap evening dress with a softly draped neckline and a front split. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfZUYfTOc7B/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ]
+    }
+  ],
+  "activityEvidence": {
+    "source": "https://www.instagram.com/wstore.lb/",
+    "latestSource": "https://www.instagram.com/wstore.lb/reel/Df4JsSnuAmi/",
+    "latestDate": "2026-11-18",
+    "note": "Root observed dated public profile grid includingNovember18,17and16 posts; the daily samples establish current activity but do not guarantee future posting frequency."
+  },
+  "websiteCheck": {
+    "result": "No matching official website found in reviewed public profile links and bounded name, handle and public phone searches. An unlisted website cannot be ruled out.",
+    "queries": [
+      "\"wstore.lb\" official website shop",
+      "\"W store\" \"81242488\"",
+      "\"Wstore\" \"01877120\"",
+      "\"Wstore\" \"Lebanon\""
+    ],
+    "checkedDate": "2026-11-18",
+    "sources": [
+      "https://www.instagram.com/wstore.lb/",
+      "https://imginn.com/wstore.lb/",
+      "https://www.beirut.com/en/740417/affordable-winter-essentials-and-where-to-find-them-in-lebanon/",
+      "https://evendo.com/locations/lebanon/kesserwan/shop/w-store"
+    ],
+    "primaryObservation": "Root expanded profile links and observed onlywsend.co/96181242488 plus a Jbeil maplink that did notresolve; no shoplinkfound. No guessed or broken map URL included in the demo."
+  },
+  "imageProvenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\01.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/Df4JsSnuAmi/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910923399_18440958268176670_8429764816672371208_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sDrEnydHdqsQ7kNvwEPCHOK&_nc_oc=Adoc_klYi680wIklXhwYXdiAepuTd0OVQWrzNjeW4Y2SPxKrbWE7rpUx3diM_rhZ3v4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSMhOfor40Eg2TJjxJOdbcIol5ZMdSmE8-aTEQSd7ahCg&oe=6B039CD1",
+      "alt": "Video by W store offical on November 18, 2026. May be an image of overcoat, suit, blazer and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "4ad593495d72f8a8a0827e81409106de537e775d48b771734bc3ef66ba2647da",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\02.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/Df1m9i_OF_c/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/910720293_1457014729942091_8747793345067522756_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_-axz6apwyUQ7kNvwHQgYEx&_nc_oc=AdpV3TO_L26G2jdZXzG_-ESHEmAlWcRw1YhaG17pP5wyH80BSgOirC2bphIk10dweTY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQGENjhPAc4q1Qxp8qWZYVFK3n3NR7gisORRQnjI1McMQ&oe=6B03A25E",
+      "alt": "Video by W store offical on November 17, 2026. May be an image of boots, leather, jacket, coat and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "04a01270fb000dfcf6a79cfb4a5cb18469a8efd5f5577bd078e4dad781bcc5df",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\03.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfzBR5Juprc/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910764716_18440621659176670_1769574177703796055_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LqvwL9LQbV8Q7kNvwGnRUUF&_nc_oc=AdqSaaY7J1p15NUpX4BsQOvJafJzhDxbm1GyNOyJvFVYAzdMgli5S_tcvS9NCZ1TnfM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQT9rG7yIBKwcEF-PTVBmSVA2vTejskgQX73S7hqMgJUxg&oe=6B0384F9",
+      "alt": "Video by W store offical on November 16, 2026. May be an image of leather, coat, jacket and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "415190bec1e1c9a7e8af8c39419f1f8047e1452ab78109918270ef56be03c52d",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\04.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/Dft15f3uBIO/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/891804602_18440249614176670_115956623016340929_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_xHwXEwsnJgQ7kNvwGRqVMs&_nc_oc=AdrfHJKs5ThuEj8jrsMmU8tXhUpGBMKj8W-acoNukb3dTFZUW0jCSrEg9JwEu-66-hs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSW156nCVIonI-e_9z3zj3XBdsyxG_gzIBdx1hFQ16t_Q&oe=6B0397EA",
+      "alt": "Video by W store offical on November 14, 2026. May be an image of outerwear, display case, rack and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "e16d71765f1b95a86b9b17b6890492447cff64849d7d341f2d1eae1ef0ad01ad",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\05.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfrS42kuBbQ/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/889080886_18440072728176670_6942982750610313779_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RfX5bjU7VaEQ7kNvwEnOw3m&_nc_oc=AdoBigYTuCPhesDK3F3o5H_85M02U-caiCTHrjHxIKXghIKiJkO5DMcU9NkRtntFBF4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQPYB6gQwLGjuBg2kFayFE5SdVxoopyWfeFLpujwznMzw&oe=6B03937B",
+      "alt": "Video by W store offical on November 13, 2026. May be an image of dress and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "fb86730be520d2f860451d5fd633892c02458a5bf5cd8b94a7a5c9a884ed6544",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\06.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfoyPHkuukq/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/887420445_18439910803176670_279508153104272557_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=itj_44ZZoiQQ7kNvwEa9Lla&_nc_oc=AdqLlJJpk4zSpnMkBY1lS-XBUGXNPoHiN-oWaoXBDpGKbgv2Pzyc7s9XBXbJaN-GjIY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQb08MgenlP5e6-DdMmKi3zfaO5_YlyS0st_NzhwDOC2g&oe=6B03946F",
+      "alt": "Video by W store offical on November 12, 2026. May be an image of jumpsuit, top and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "8783d5b6bcadce518d91bdd68793f4700d573b558e8c59c1c145be1b53ed1b32",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\07.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfmOgfcOevs/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/887061903_18439733485176670_1638020946112924677_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RX4DVeLhYK8Q7kNvwHKA9o2&_nc_oc=AdqBdALUZuY6geiBj5bIASvIe2cLI9sc41CM0hL37lAX4xy-zdQN9sthxFQ4pjDwLzk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTFY1uCiHf7BbQwIT9JAqs7pfge36z4SKTxq2gOOZ2zCA&oe=6B0387E6",
+      "alt": "Video by W store offical on November 11, 2026. May be an image of text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "f969e84ff8c3e32ded6b14b360a85ae4d9813c52f88e41b94083c2850c02a139",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\08.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/Dfjks7hurFk/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/895915551_1678543227391643_7439643513100005183_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jZx1iSBtN5AQ7kNvwEyaQYr&_nc_oc=AdoprG_RwlrPVoc-hXxhxasSQP2cYzK9tAGdKg509Q-enjyamqg9SB0ulthrpYMZLGQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSnrc5O1XpID40CoeNkTlNMFxd6FPmdyBtWCHr0j60lXA&oe=6B03839B",
+      "alt": "Video by W store offical on November 10, 2026. May be an image of top and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "280828938710a93a631b9ee3cd9cb0484837c8e8aef980a7b4799234b8000a84",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\09.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfhDbrPuLji/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/885575803_18439403440176670_7244079045478858227_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LOKYLze_G-QQ7kNvwHJOBPH&_nc_oc=AdoXDqt-IvZ3bcCJDIcWwbSIA5HdRcjUpmB8M98ZkkMsNqgDV96wgjvgYD2dpIORwag&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQfrm4RG7iPZowLoo7jjM-miLjnTkRAqzbD3UBB70RIUA&oe=6B03B0B9",
+      "alt": "Video by W store offical on November 09, 2026. May be an image of sweatpants, sweatshirt, parka, sweatsuit, drawstring, fleece and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "1dce0ab6f7f7a098f1e3aa4ce505e8f6abc78fe186083370469f87c7a2bb6271",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\10.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/Dfb4gKXuG0_/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/881746785_18439043572176670_9196302798840845516_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=USuqO_Hk9FUQ7kNvwFbzrLl&_nc_oc=AdoG0xJr3O2a5XBjAHFxVe9UUgO_rps6YqjY6l7m1tnzxipvl2oOhRFsDUHv66kJGr8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRRtE8Cvrb_EEYr_u1oeJ9IcMK5w0_z31SYl-AjF29DMA&oe=6B039B33",
+      "alt": "Video by W store offical on November 07, 2026. May be an image of dress, jumpsuit and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "2e680c15d72dceb743466a5ae203df1ecc4a797e44fccf881e1e11b4c1cd4078",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\11.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfZUYfTOc7B/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/883414130_18438869422176670_6305978773119336027_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VXlWcXzHJ7MQ7kNvwHrZIff&_nc_oc=AdovJTg_TvwMI2YlQKuttM6DWnIkWVkkciScXlFLHwNvlCO18jpduza8m8rUj2_c-CE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR3HGKpdbh-BNfNmGpXIC6ayTZYcdpqXLJ0NMjdta96Jg&oe=6B038617",
+      "alt": "Video by W store offical on November 06, 2026. May be an image of gown, dress and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "d37c902b60826cd45e7b3d3a83377387dc5ae235dbd1b2bfd5b6a1031c12917c",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov17-fashion-build3\\w-store\\assets\\12.jpg",
+      "sourcePost": "https://www.instagram.com/wstore.lb/reel/DfWrq2kOqo1/",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/881397133_18438703087176670_96097253725978942_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kOASsmnACEUQ7kNvwFUXuxh&_nc_oc=AdqY_XIXrNnlqE5hAzZdHRTdeAm5jEO6C8Bfbz5zBN8Hf7NWyayjZpf8UEea8dO_jR4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=M0cgBTMEIFGFEdszssRi1A&_nc_ss=7b689&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRpWkjqNUax5y7v3nc62tbZHBwaazPR1g4sEGqa5qnSUw&oe=6B03A841",
+      "alt": "Video by W store offical on November 05, 2026. May be an image of jacket, display case, top and text.",
+      "width": 360,
+      "height": 640,
+      "sha256": "6582162c218ac8b6408c22158fd5b883051e04cc92ef6b1ec37b22c4bf0d3e06",
+      "collectedDate": "2026-11-18",
+      "method": "Root CUA pageAssets public Instagram renderedimageexport"
+    }
+  ],
+  "imageNotes": "Twelve public owner-account still images exported byroot from renderedInstagramgrid via pageAssets. Some are native ReelcoverJPEGs, not extractedvideo frames. All are visualreference photographs; no prices, stock, material composition or size range inferred. Images04and12 used onlyingallery. Allcataloguepricesnull. Product photos shouldbe displayedwithportraitcontainlayout to avoidcropping.",
+  "branchContactCaution": "Primary biography lists Zalka WhatsApp numbers81242488/81242485; the second number is not independently verified as a Jbeil-specific number."
+}

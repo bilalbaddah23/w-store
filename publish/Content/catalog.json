@@ -1,0 +1,211 @@
+{
+  "brand": "W Store",
+  "contactMode": "whatsapp",
+  "phone": "96181242488",
+  "displayPhone": "+961 81 242 488",
+  "instagram": "https://www.instagram.com/wstore.lb/",
+  "hours": "Monday–Saturday,10am–7pm; confirm before visiting",
+  "hero": "/images/photo-ddfc8a9ec03246d0.jpg",
+  "story": "/images/photo-a83e4d46dde7578d.jpg",
+  "galleryImages": [
+    "/images/photo-ddfc8a9ec03246d0.jpg",
+    "/images/photo-5b08ebf3d1adc026.jpg",
+    "/images/photo-a83e4d46dde7578d.jpg",
+    "/images/photo-4638f9f5616645d1.jpg",
+    "/images/photo-3f11546280c0be61.jpg",
+    "/images/photo-6b9f917a0408c093.jpg",
+    "/images/photo-e6abfbfc9900d342.jpg",
+    "/images/photo-62a959e3c6fa686a.jpg",
+    "/images/photo-0e062c24ad9b3fe9.jpg",
+    "/images/photo-f0d29839a4d4472b.jpg",
+    "/images/photo-8117049c0905981e.jpg",
+    "/images/photo-dc55f5e174b896ea.jpg"
+  ],
+  "products": [
+    {
+      "id": "cream-cape-style-layer",
+      "name": "Cream Cape Style Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A short cream cape-style outer layer with dark buttons, styled over brown separates outside the W Store entrance. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-ddfc8a9ec03246d0.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/Df4JsSnuAmi/"
+    },
+    {
+      "id": "black-collared-zip-layer",
+      "name": "Black Collared Zip Layer",
+      "collection": "Outer layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A black collared zip-front outer layer with a glossy finish, styled with slim dark trousers. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-5b08ebf3d1adc026.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/Df1m9i_OF_c/"
+    },
+    {
+      "id": "brown-button-coordinated-look",
+      "name": "Brown Button Coordinated Look",
+      "collection": "Everyday sets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown collared jacket with light buttons, styled with matching-looking wide-leg trousers and a white top. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-a83e4d46dde7578d.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/DfzBR5Juprc/"
+    },
+    {
+      "id": "burgundy-sparkle-gown",
+      "name": "Burgundy Sparkle Gown",
+      "collection": "Occasion looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A fitted sleeveless burgundy evening dress with a sparkling surface and a side opening, shown in the boutique. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-3f11546280c0be61.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/DfrS42kuBbQ/"
+    },
+    {
+      "id": "taupe-button-trim-top",
+      "name": "Taupe Button Trim Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A taupe top with decorative light button details, styled with dark trousers. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-6b9f917a0408c093.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/DfoyPHkuukq/"
+    },
+    {
+      "id": "black-relaxed-blouse",
+      "name": "Black Relaxed Blouse",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A relaxed dark long-sleeved blouse styled with wide-leg blue jeans outside the boutique. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-e6abfbfc9900d342.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/DfmOgfcOevs/"
+    },
+    {
+      "id": "burgundy-zip-top",
+      "name": "Burgundy Zip Top",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy collared zip-front top with a glossy finish, styled with blue jeans. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-62a959e3c6fa686a.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/Dfjks7hurFk/"
+    },
+    {
+      "id": "ivory-lettered-hoodie",
+      "name": "Ivory Lettered Hoodie",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "An ivory hooded top with large dark lettering across the chest, styled with black trousers. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-0e062c24ad9b3fe9.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/DfhDbrPuLji/"
+    },
+    {
+      "id": "deep-green-halter-look",
+      "name": "Deep Green Halter Look",
+      "collection": "Occasion looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A deep green halter-style wide-leg one-piece look, shown with a tied waist and a deep V-shaped neckline. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-f0d29839a4d4472b.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/Dfb4gKXuG0_/"
+    },
+    {
+      "id": "burgundy-draped-evening-dress",
+      "name": "Burgundy Draped Evening Dress",
+      "collection": "Occasion looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A long burgundy thin-strap evening dress with a softly draped neckline and a front split. Confirm the exact garment, fit, colour, current availability and price with W Store. Separate styling pieces and accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/photo-8117049c0905981e.jpg"
+      ],
+      "source": "https://www.instagram.com/wstore.lb/reel/DfZUYfTOc7B/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Zalka",
+      "address": "Zalka, Lebanon; confirm exact visiting location with the boutique",
+      "phone": "96181242488",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=W%20Store%20Zalka%20Lebanon"
+    },
+    {
+      "name": "Jbeil",
+      "address": "Jbeil, Lebanon; confirm exact visiting location with the boutique",
+      "phone": "96181242485",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=W%20Store%20Jbeil%20Lebanon"
+    }
+  ]
+}

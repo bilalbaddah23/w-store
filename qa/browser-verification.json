@@ -1,0 +1,63 @@
+{
+  "result": "PASS",
+  "date": "2026-11-18",
+  "desktop": {
+    "heroLoaded": true,
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  "checks": [
+    "Collection search, empty state, category filter, alphabetical sort and saved persistence",
+    "Product thumbnail/zoom, add two to bag, required-field validation, correct-contact draft, clipboard copy and edit; no external message sent",
+    "Live bag quantity increased to3; item removal/empty state; clear saved favourites",
+    "Style finder, correct contact, gallery filter/lightbox/next/Escape, global search suggestions"
+  ],
+  "responsive": [
+    {
+      "path": "/",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/shop",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/product/cream-cape-style-layer",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/lookbook",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/contact",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "path": "/checkout",
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ],
+  "consoleErrors": [],
+  "screenshots": [
+    "desktop-home.jpg",
+    "mobile-home.jpg"
+  ],
+  "additional360": {
+    "scrollWidth": 345,
+    "width": 360
+  },
+  "scope": "Local compiled ASP.NET10 release. Desktop1440px, phone390px sixroutes and360px home. Synthetic customer only; no message sent, payment or VPS deployment."
+}
